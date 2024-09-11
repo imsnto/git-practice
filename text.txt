@@ -1,3 +1,9 @@
 this is a text file.
 
+
 this is second line and this is append in dev branch. now see the conflict.
+
+add this line in main branch. now lets see the changes in dev branch.
+
+
+left the text same. take both lines.
